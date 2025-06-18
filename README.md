@@ -1,16 +1,59 @@
-## Hi there 👋
+# 👋 Hi, I'm Kanishk Sharma!
 
-<!--
-**Kani-shk/Kani-shk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 BCA Student | ☁️ Aspiring Cloud Engineer | ⚙️ DevOps Enthusiast  
+🚀 Currently building my journey in Terraform, AWS, Docker, and CI/CD pipelines.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌱 About Me
+
+- 💻 I'm passionate about automation, infrastructure-as-code, and deploying scalable cloud solutions.
+- 🐳 I love containerizing apps with Docker and writing GitHub Actions to automate builds.
+- ☁️ Currently learning advanced AWS (IAM, VPC, ECS) and Terraform modules.
+- 🎯 Goal: Become a DevOps/Cloud Engineer who builds clean, reliable infrastructure.
+
+---
+
+## 🛠️ Tech Stack
+
+| Domain         | Tools & Technologies                                   |
+|----------------|--------------------------------------------------------|
+| **Cloud**      | AWS (EC2, S3, IAM, CLI)                                |
+| **DevOps**     | Docker, GitHub Actions, Terraform                      |
+| **Languages**  | Python, Bash                                           |
+| **Infra-as-Code** | Terraform                                            |
+| **Version Control** | Git, GitHub                                      |
+| **Other Tools** | VS Code, Boto3, Linux CLI                             |
+
+---
+
+## 🔧 Featured Projects
+
+🔹 [**Terra-Learn**](https://github.com/Kani-shk/terra-learn)  
+Provision EC2 and S3 using Terraform with modular structure and clean outputs.
+
+🔹 [**Dev-Py**](https://github.com/Kani-shk/dev-py)  
+Python-based AWS backup tool using Boto3 and `.env` secrets for cloud automation.
+
+🔹 [**CI-Docker**](https://github.com/Kani-shk/CI-Docker)  
+CI/CD pipeline for Dockerized Flask app using GitHub Actions.
+
+---
+
+## 📊 GitHub Stats
+
+![Kanishk's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Kani-shk&show_icons=true&theme=github_dark&hide_title=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Kani-shk&layout=compact&theme=github_dark&langs_count=6)
+
+---
+
+## 📫 Let's Connect
+
+- 💼 [LinkedIn](https://linkedin.com/in/kanishk-sharma)
+- 💻 [GitHub](https://github.com/Kani-shk)
+- 📧 kanishkksharma91@gmail.com
+
+---
+
+> “Infrastructure that builds itself, and code that ships itself.”
+
