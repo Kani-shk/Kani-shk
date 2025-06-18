@@ -1,14 +1,16 @@
+
+
 # 👋 Hi, I'm Kanishk Sharma!
 
 🎓 BCA Student | ☁️ Aspiring Cloud Engineer | ⚙️ DevOps Enthusiast  
-🚀 Currently building my journey in Terraform, AWS, Docker, and CI/CD pipelines.
+🚀 Currently building my journey in Terraform, AWS, Docker, Kubernetes, and CI/CD pipelines.
 
 ---
 
 ## 🌱 About Me
 
 - 💻 I'm passionate about automation, infrastructure-as-code, and deploying scalable cloud solutions.
-- 🐳 I love containerizing apps with Docker and writing GitHub Actions to automate builds.
+- 🐳 I love containerizing apps with Docker and Kubernetes, and writing GitHub Actions to automate builds.
 - ☁️ Currently learning advanced AWS (IAM, VPC, ECS) and Terraform modules.
 - 🎯 Goal: Become a DevOps/Cloud Engineer who builds clean, reliable infrastructure.
 
@@ -19,7 +21,7 @@
 | Domain         | Tools & Technologies                                   |
 |----------------|--------------------------------------------------------|
 | **Cloud**      | AWS (EC2, S3, IAM, CLI)                                |
-| **DevOps**     | Docker, GitHub Actions, Terraform                      |
+| **DevOps**     | Docker, Kubernetes, GitHub Actions, Terraform          |
 | **Languages**  | Python, Bash                                           |
 | **Infra-as-Code** | Terraform                                            |
 | **Version Control** | Git, GitHub                                      |
@@ -42,7 +44,7 @@ CI/CD pipeline for Dockerized Flask app using GitHub Actions.
 
 ## 📊 GitHub Stats
 
-![Kanishk's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Kani-shk&show_icons=true&theme=github_dark&hide_title=true)
+![Kanishk's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Kani-shk&show_icons=true&theme=github_dark&hide_title=true)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Kani-shk&layout=compact&theme=github_dark&langs_count=6)
 
 ---
@@ -50,10 +52,6 @@ CI/CD pipeline for Dockerized Flask app using GitHub Actions.
 ## 📫 Let's Connect
 
 - 💼 [LinkedIn](https://linkedin.com/in/kanishk-sharma)
-- 💻 [GitHub](https://github.com/Kani-shk)
 - 📧 kanishkksharma91@gmail.com
 
 ---
-
-> “Infrastructure that builds itself, and code that ships itself.”
-
