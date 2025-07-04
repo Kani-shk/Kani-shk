@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm Kanishk Sharma!
 
-🎓 BCA Student | ☁️ Aspiring Cloud Engineer | ⚙️ DevOps Enthusiast  
+🎓 BCA  | ☁️ Aspiring Cloud Engineer | ⚙️ DevOps Enthusiast  
 🚀 Currently building my journey in Terraform, AWS, Docker, Kubernetes, and CI/CD pipelines.
 
 ---
