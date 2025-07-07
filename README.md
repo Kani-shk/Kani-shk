@@ -38,8 +38,9 @@ Provision EC2 and S3 using Terraform with modular structure and clean outputs.
 🔹 [**Dev-Py**](https://github.com/Kani-shk/dev-py)  
 Python-based AWS backup tool using Boto3 and `.env` secrets for cloud automation.
 
-🔹 [**CI-Docker**](https://github.com/Kani-shk/CI-Docker)  
-CI/CD pipeline for Dockerized Flask app using GitHub Actions.
+🔹 [**Jenkins-CI-Pipeline**](https://github.com/Kani-shk/jenkins-ci-pipeline)  
+Automated CI pipeline for a web application using Jenkins. Includes Docker build, test, and push stages with post-build cleanup and GitHub integration.
+
 
 ---
 
