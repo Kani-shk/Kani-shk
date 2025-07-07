@@ -1,8 +1,6 @@
-
-
 # 👋 Hi, I'm Kanishk Sharma!
 
-🎓 BCA  | ☁️ Aspiring Cloud Engineer | ⚙️ DevOps Enthusiast  
+🎓 BCA | ☁️ Aspiring Cloud Engineer | ⚙️ DevOps Enthusiast  
 🚀 Currently building my journey in Terraform, AWS, Docker, Kubernetes, and CI/CD pipelines.
 
 ---
@@ -18,18 +16,21 @@
 
 ## 🛠️ Tech Stack
 
-| Domain         | Tools & Technologies                                   |
-|----------------|--------------------------------------------------------|
-| **Cloud**      | AWS (EC2, S3, IAM, CLI)                                |
-| **DevOps**     | Docker, Kubernetes, GitHub Actions, Terraform          |
-| **Languages**  | Python, Bash                                           |
-| **Infra-as-Code** | Terraform                                            |
-| **Version Control** | Git, GitHub                                      |
-| **Other Tools** | VS Code, Boto3, Linux CLI                             |
+| Domain            | Tools & Technologies                                   |
+|-------------------|--------------------------------------------------------|
+| **Cloud**         | AWS (EC2, S3, IAM, CLI)                                |
+| **DevOps**        | Docker, Kubernetes, GitHub Actions, Terraform, ArgoCD  |
+| **Languages**     | Python, Bash                                           |
+| **Infra-as-Code** | Terraform                                              |
+| **Version Control** | Git, GitHub                                          |
+| **Other Tools**   | VS Code, Boto3, Linux CLI, Kubernetes Dashboard        |
 
 ---
 
 ## 🔧 Featured Projects
+
+🔹 [**K8s-Dashboard-ArgoCD**](https://github.com/Kani-shk/k8s-dashboard-argocd)  
+GitOps deployment of a Kubernetes voting app using ArgoCD with Kubernetes Dashboard integration. Features cluster monitoring UI and declarative app syncing.
 
 🔹 [**Terra-Learn**](https://github.com/Kani-shk/terra-learn)  
 Provision EC2 and S3 using Terraform with modular structure and clean outputs.
@@ -53,5 +54,3 @@ CI/CD pipeline for Dockerized Flask app using GitHub Actions.
 
 - 💼 [LinkedIn](https://linkedin.com/in/kanishk-sharma)
 - 📧 kanishkksharma91@gmail.com
-
----
