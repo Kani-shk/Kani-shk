@@ -29,7 +29,7 @@
 
 ## 🔧 Featured Projects
 
-🔹 [**K8s-Dashboard-ArgoCD**](https://github.com/Kani-shk/k8s-dashboard-argocd)  
+🔹 [**K8s-Dashboard-ArgoCD**](https://github.com/Kani-shk/argoCD-dashboard.git)  
 GitOps deployment of a Kubernetes voting app using ArgoCD with Kubernetes Dashboard integration. Features cluster monitoring UI and declarative app syncing.
 
 🔹 [**Terra-Learn**](https://github.com/Kani-shk/terra-learn)  
