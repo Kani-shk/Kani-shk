@@ -3,6 +3,8 @@
 🎓 BCA | ☁️ Aspiring Cloud Engineer | ⚙️ DevOps Enthusiast  
 🚀 Currently building my journey in Terraform, AWS, Docker, Kubernetes, and CI/CD pipelines.
 
+![Profile Views](https://komarev.com/ghpvc/?username=Kani-shk&style=flat-square&color=blue)
+
 ---
 
 ## 🌱 About Me
@@ -16,14 +18,15 @@
 
 ## 🛠️ Tech Stack
 
-| Domain            | Tools & Technologies                                   |
-|-------------------|--------------------------------------------------------|
-| **Cloud**         | AWS (EC2, S3, IAM, CLI)                                |
-| **DevOps**        | Docker, Kubernetes, GitHub Actions, Terraform, ArgoCD  |
-| **Languages**     | Python, Bash                                           |
-| **Infra-as-Code** | Terraform                                              |
-| **Version Control** | Git, GitHub                                          |
-| **Other Tools**   | VS Code, Boto3, Linux CLI, Kubernetes Dashboard        |
+| Domain            | Tools & Technologies                                                    |
+|-------------------|-------------------------------------------------------------------------|
+| **Cloud**         | AWS (EC2, S3, IAM, CLI)                                                 |
+| **DevOps**        | Docker, Kubernetes, GitHub Actions, Terraform, ArgoCD                   |
+| **Monitoring**    | Prometheus, Grafana, Kubernetes Dashboard                         |
+| **Languages**     | Python, Bash                                                            |
+| **Infra-as-Code** | Terraform                                                               |
+| **Version Control** | Git, GitHub                                                           |
+| **Other Tools**   | Jenkins, Boto3, Linux CLI, Visual Studio Code, GitHub CLI               |
 
 ---
 
@@ -41,17 +44,33 @@ Python-based AWS backup tool using Boto3 and `.env` secrets for cloud automation
 🔹 [**Jenkins-CI-Pipeline**](https://github.com/Kani-shk/jenkins-ci-pipeline)  
 Automated CI pipeline for a web application using Jenkins. Includes Docker build, test, and push stages with post-build cleanup and GitHub integration.
 
-
 ---
 
 ## 📊 GitHub Stats
 
-![Kanishk's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Kani-shk&show_icons=true&theme=github_dark&hide_title=true)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Kani-shk&layout=compact&theme=github_dark&langs_count=6)
+<div align="center">
+  
+![Kanishk's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Kani-shk&show_icons=true&theme=radical&hide=issues&count_private=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Kani-shk&layout=compact&theme=radical)
+
+</div>
+
+---
+
+## 📈 Monitoring Stack I Use
+
+| Tool        | Purpose                          |
+|-------------|----------------------------------|
+| **Prometheus** | Metrics scraping & storage     |
+| **Grafana**    | Dashboard visualization         |
+| **ArgoCD**     | GitOps continuous delivery      |
+| **K8s Dashboard** | Cluster UI and health stats |
 
 ---
 
 ## 📫 Let's Connect
 
-- 💼 [LinkedIn](https://linkedin.com/in/kanishk-sharma)
-- 📧 kanishkksharma91@gmail.com
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&link=https://linkedin.com/in/kanishk-sharma)](https://linkedin.com/in/kanishk-sharma)
+[![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github&link=https://github.com/Kani-shk)](https://github.com/Kani-shk)
+
+> “Automate everything that can be automated — and understand everything that can’t.” 🔁
