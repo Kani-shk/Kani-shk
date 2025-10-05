@@ -70,7 +70,7 @@ Automated CI pipeline for a web application using Jenkins. Includes Docker build
 
 ## 📫 Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&link=https://linkedin.com/in/kanishk-sharma)](https://linkedin.com/in/kanishk-sharma)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&link=www.linkedin.com/in/kanishk-sharma-65a9a8278)](www.linkedin.com/in/kanishk-sharma-65a9a8278)
 [![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github&link=https://github.com/Kani-shk)](https://github.com/Kani-shk)
 
 > “Automate everything that can be automated — and understand everything that can’t.” 🔁
