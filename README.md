@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Kanishk Sharma!
 
-🎓 BCA | ☁️ Aspiring Cloud Engineer | ⚙️ DevOps Enthusiast  
+🎓 Pursuing MCA @JECRC UNIVERSITY | ☁️ Aspiring Cloud Engineer | ⚙️ DevOps Enthusiast  
 🚀 Currently building my journey in Terraform, AWS, Docker, Kubernetes, and CI/CD pipelines.
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Kani-shk&style=flat-square&color=blue)
